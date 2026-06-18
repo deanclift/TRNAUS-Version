@@ -1,3 +1,11 @@
 TRNAUS18_VERSION=26.1
 RELEASE_DATE=2026-05-28
 
+# Dean licences
+AUTHORIZED_STUDIO=ja-cdd-aca-gc-ggkhgjaQR4F55UeGV7SRCQftumq.oByvX
+AUTHORIZED_STUDIO=jadldc-caca-lhgjjckdaIR8eQR4F5JUftumqx
+AUTHORIZED_STUDIO=jadldc-caca-lhgjjckdaIR8eQR4F5JUftumqx
+AUTHORIZED_STUDIO=jadlc-=haca-=lhlj=jd-aGNU5JUfQumqPByvX
+
+# Graham licences
+AUTHORIZED_STUDIO=jadlc-naca-lhlj=jd-aGNU5JfUQumqPByvXkyo
