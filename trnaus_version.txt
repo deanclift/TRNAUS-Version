@@ -4,7 +4,7 @@ RELEASE_DATE=2026-05-28
 
 # Standard users (these start with USER=....)
 # USER=.....
-USER=ja-cdd==aca=gc-ggkhgjaQR4F5JUeGV7SRCQftumq.oByvX|b5595080-77fc-4bd9-acb6-6c13e611b66d
+#USER=ja-cdd==aca=gc-ggkhgjaQR4F5JUeGV7SRCQftumq.oByvX|b5595080-77fc-4bd9-acb6-6c13e611b66d
 
 # Developer users (these start with DEVELOPER=....)
 # This is Dean Clift in his main computer
