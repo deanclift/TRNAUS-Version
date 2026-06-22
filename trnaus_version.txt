@@ -13,3 +13,7 @@ ApprovedTypes = 16, 9, 33, 165
 # This is Dean Clift in his main computer
 DEVELOPER=ja-cdd==aca=gc-ggkhgjaQR4F5JUeGV7SRCQftumq.oByvX|b5595080-77fc-4bd9-acb6-6c13e611b66d
 Developer=jadlc-=haca-=lhlj=jd-aGNU5JUfQumqPByvX|21e8b73f-755e-463a-9a32-8dce78524e21
+
+#Graham Morrison/Thermal Design Pty Ltd
+Developer=jadhc==-acacgd-hkjlhcaTWNCNHddfwprLL|92adf3f9-5af4-42e9-8302-d0534118b458
+Developer=jaclcg=gaca-c-kkl-cljaTWNCNHd-fwprLL|92adf3f9-5af4-42e9-8302-d0534118b458
