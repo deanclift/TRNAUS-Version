@@ -1,5 +1,9 @@
 TRNAUS18_VERSION=26.1
 RELEASE_DATE=2026-05-28
+
+ApprovedTypes = 14, 11, 65, 55, 24
+ApprovedTypes = 16, 9, 33, 165
+
 # Lines that start with a # are ignored - so use # for comments, also blank lines are ignored
 
 # Standard users (these start with USER=....)
@@ -8,3 +12,4 @@ RELEASE_DATE=2026-05-28
 # Developer users (these start with DEVELOPER=....)
 # This is Dean Clift in his main computer
 DEVELOPER=ja-cdd==aca=gc-ggkhgjaQR4F5JUeGV7SRCQftumq.oByvX|b5595080-77fc-4bd9-acb6-6c13e611b66d
+Developer=jadlc-=haca-=lhlj=jd-aGNU5JUfQumqPByvX|21e8b73f-755e-463a-9a32-8dce78524e21
