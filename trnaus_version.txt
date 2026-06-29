@@ -18,3 +18,6 @@ Developer=jadlc-=haca-=lhlj=jd-aGNU5JUfQumqPByvX|21e8b73f-755e-463a-9a32-8dce785
 #Graham Morrison/Thermal Design Pty Ltd
 Developer=jadhc==-acacgd-hkjlhcaTWNCNHddfwprLL|92adf3f9-5af4-42e9-8302-d0534118b458
 Developer=jaclcg=gaca-c-kkl-cljaTWNCNHd-fwprLL|92adf3f9-5af4-42e9-8302-d0534118b458
+
+# Graham Morrison/Thermal Design Pty Ltd new laptop
+Developer=ja-lci=iacadkk=-lkh-laQR4F5JUe6EdGTlWfNQHDI|d0ddf894-d38e-4b1b-88f9-a6b0310b14b0
