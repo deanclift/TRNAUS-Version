@@ -7,7 +7,8 @@ ApprovedTypes = 16, 9, 33, 165, 2, 31
 # Lines that start with a # are ignored - so use # for comments, also blank lines are ignored
 
 # Standard users (these start with USER=....)
-# USER=.....
+# The next line is Harry Suehrcke/Sunspin
+USER=jacgd-=hacachdjkkgcdia46I4UDIRPQjfMYqMsyq|2b7589fd-5718-462e-a536-b42f2f70f70a
 
 # Developer users (these start with DEVELOPER=....)
 # The next line is Dean Clift in his main computer
