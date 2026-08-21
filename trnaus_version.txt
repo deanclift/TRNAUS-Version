@@ -2,7 +2,7 @@ TRNAUS18_VERSION=26.1
 RELEASE_DATE=2026-06-20
 
 ApprovedTypes = 14, 11, 65, 55, 24
-ApprovedTypes = 16, 9, 33, 165, 2
+ApprovedTypes = 16, 9, 33, 165, 2, 31
 
 # Lines that start with a # are ignored - so use # for comments, also blank lines are ignored
 
